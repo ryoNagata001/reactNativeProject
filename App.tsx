@@ -50,7 +50,6 @@ export default class App extends React.Component {
         container: {
             flex: 1,
             paddingVertical: 80,
-            alignItems: 'center',
         },
     });
 
